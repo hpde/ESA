@@ -9,7 +9,7 @@ Visit the [website](http://www.esa.int/ESA) [http://www.esa.int/ESA]
 If you are a consumer of the metadata simple clone the repostory
 
 ````
-git clone -b master --single-branch https://github.com/hpde/ESA
+git clone -b master --single-branch --depth=1 https://github.com/hpde/ESA
 ````
 
 If you are a contributor, clone the repository and use the "draft" branch.
