@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/CHAMP/PT1M</ResourceID>
     <ResourceHeader>
       <ResourceName>CHAMP data (all-inclusive) via CHAMP Data Center</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-01T17:53:31Z</ReleaseDate>
       <Description>A wealth of CHAMP data at various time resolutions 
 and processing levels, including vector and scalar magnetic field data, 
 coefficients for a CHAMP-based main magnetic field model, electron density 
@@ -29,7 +29,7 @@ Potsdam).  Registration is required for open data access.</Description>
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>GFZ/ISDC CHAMP page</Name>
-        <URL>http://isdc.gfz-potsdam.de/index.php?module=pagesetter&amp;func=viewpub&amp;tid=1&amp;pid=34</URL>
+        <URL>https://isdc.gfz-potsdam.de/champ-isdc/</URL>
       </AccessURL>
       <Format>Text</Format>
       <Encoding>None</Encoding>
