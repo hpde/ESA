@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Cluster/Ephemeris/SummaryParameter/PT60S</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster Auxiliary Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>Cluster Auxiliary Parameters are produced by the Cluster Hungarian Data Center in Budapest.  These data are the primary orbit product supplied to users by the Cluster Active Archive.  The data contain Position, Velocity and Attitude of four Cluster spacecraft.
 
             For additional details on the methodology behind these data see:
@@ -33,7 +33,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=CL_SP_AUX&amp;index=sp_phys</URL>
         <ProductKey>CL_SP_AUX</ProductKey>
       </AccessURL>
       <Format>CDF</Format>

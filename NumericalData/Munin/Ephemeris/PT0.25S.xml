@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Munin/Ephemeris/PT0.25S</ResourceID>
     <ResourceHeader>
       <ResourceName>Munin Ephemeris, Spacecraft Orbit and Attitude Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>
          </Description>
       <Acknowledgement>O. Norberg</Acknowledgement>
@@ -44,7 +44,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=MUNIN_M1_OA&amp;index=sp_phys</URL>
         <ProductKey>MUNIN_M1_OA</ProductKey>
         <Description>Access to ASCII, CDF, and plots via NASA/GSFC CDAWeb</Description>
       </AccessURL>

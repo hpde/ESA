@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Equator-S/Ephemeris/PrimeParameter/PT4S</ResourceID>
     <ResourceHeader>
       <ResourceName>Equator-S Epheneris and Auxiliary Prime Parameter 4 s Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>Equator-S Auxiliary Data Prime Parameters. EQUATOR-S was a Low-Cost Mission designed to study the Earth's Equatorial Magnetosphere out to Distances of about 10 Re and it formed Element of the Closely-Coordinated Fleet of Satellites that comprise the IASTP Program. Equator-S was based on a Simple Spacecraft Design and carries a Science Payload consisting of advanced Instruments that were developed for other IASTP Missions. Unique Features of EQUATOR-S were its nearly Equatorial Orbit and its High Spin Rate. It was launched as an Auxiliary Payload on an Ariane-4 Rocket on December 2, 1997. The Mission was intended for a Two-Year Lifetime. See the Equator-S Data Center Manual, EQS-MPE-EDC-01, Section 4.8 AUX</Description>
       <Acknowledgement>G. Paschmann, Refer to ESDS for Rules of Acknowledgement Refer to EQS-MPE-EDC-01.</Acknowledgement>
       <Contact>
@@ -38,7 +38,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=EQ_PP_AUX&amp;index=sp_phys</URL>
         <ProductKey>EQ_PP_AUX</ProductKey>
         <Description>Access to ASCII, CDF, and plots via NASA/GSFC CDAWeb</Description>
       </AccessURL>

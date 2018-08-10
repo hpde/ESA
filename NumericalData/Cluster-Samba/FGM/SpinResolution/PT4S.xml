@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Samba Spin Resolution Fluxgate Magnetometer (FGM) Data</ResourceName>
       <AlternateName>Cluster 1 Spin Resolution FGM Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>This dataset contains spin resolution measurements of the magnetic field vector from the fluxgate magnetometer (FGM) instrument 
         on the Cluster Samba spacecraft.</Description>
       <Acknowledgement>NASA, Andre Balogh, Elizabeth E. Lucek</Acknowledgement>
@@ -42,7 +42,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C3_CP_FGM_SPIN&amp;index=sp_phys</URL>
         <ProductKey>C3_CP_FGM_SPIN</ProductKey>
       </AccessURL>
       <Format>CDF</Format>

@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Cluster/Ephemeris/JP/PGP/PT1M</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster Predicted Trajectories and Relative Positions, all spacecraft </ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>Cluster JSOC Predicted Geometric Positions</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Michael.A.Hapgood</PersonID>
@@ -30,7 +30,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=CL_JP_PGP&amp;index=sp_phys</URL>
         <ProductKey>CL_JP_PGP</ProductKey>
       </AccessURL>
       <Format>CDF</Format>

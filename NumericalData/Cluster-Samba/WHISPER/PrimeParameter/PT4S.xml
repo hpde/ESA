@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Samba Prime Parameter Waves of HF and Sounder for Probing Electron Density by Relaxation (WHISPER) Data</ResourceName>
       <AlternateName>Cluster 3 Prime Parameter WHISPER Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>The Waves of HF and Sounder for Probing Electron Density by Relaxation (WHISPER) experiment provides measurements of the electron density via active sounding of plasma resonances and records via passive wave analysis the natural wave emissions in the high-frequency range, from 4-80 KHz. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article WHISPER, a Sounder and High-Frequency Wave Analyser Experiment, by P. M. E. Decreau et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Pierrette Decreau</Acknowledgement>
       <Contact>
@@ -82,7 +82,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C3_PP_WHI&amp;index=sp_phys</URL>
         <ProductKey>C3_PP_WHI</ProductKey>
       </AccessURL>
       <Format>CDF</Format>

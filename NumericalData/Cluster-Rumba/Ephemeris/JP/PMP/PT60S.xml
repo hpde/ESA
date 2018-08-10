@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Cluster-Rumba/Ephemeris/JP/PMP/PT60S</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster-Rumba JSOC Predicted Magnetic Positions</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>This dataset contains Cluster Rumba JSOC predicted magnetic positions and magnetic field magnitude.</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Michael.A.Hapgood</PersonID>
@@ -30,7 +30,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C1_JP_PMP&amp;index=sp_phys</URL>
         <ProductKey>C1_JP_PMP</ProductKey>
         <Description>C1_JP_PMP</Description>
       </AccessURL>

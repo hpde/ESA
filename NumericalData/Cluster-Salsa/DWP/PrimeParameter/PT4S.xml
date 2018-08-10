@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Salsa Digital Wave Processor (DWP) prime parameter data at about 4 sec resolution (spin averaged) in GSE Coordinates</ResourceName>
       <AlternateName>Cluster Salsa DWP data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
       <Description>Cluster Salsa Digital Wave Processor (DWP) data set contains various instrument status and data status flags as well as particle correlator information.</Description>
       <Acknowledgement>NASA; ESA; Dr. Hugo Alleyne</Acknowledgement>
       <Contact>
@@ -104,7 +104,7 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.gsfc.nasa.gov/cdaweb/sp_phys</URL>
+        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C2_PP_DWP&amp;index=sp_phys</URL>
         <ProductKey>C2_PP_DWP</ProductKey>
         <Description>Plots, lists and files from CDAWeb.</Description>
       </AccessURL>
