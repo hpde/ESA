@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Double Star 1 Spacecraft Auxiliary Summary Parameters Data</ResourceName>
       <AlternateName>TC 1 Auxiliary Summary Parameters Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2018-11-29T15:24:14Z</ReleaseDate>
       <Description>The Double Star 1 auxiliary summary parameter data set contains various parameters in GSE coordinates at 60 s resolution. These parameters include universal time, orbit number, GSE position, GSE spacecraft velocity vector, longitude, and dipole tilt. These parameters are available through Double Star Science Data Centre The Data Ring with restricted access.</Description>
       <Acknowledgement>European Space Agency/International</Acknowledgement>
       <Contact>
@@ -15,7 +15,7 @@
       </Contact>
       <InformationURL>
         <Name>Double Star 1 Orbital Parameters</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/spacecraftOrbit.do?id=2003-061A</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=2003-061A</URL>
         <Description>Introduction to the Double Star 1 Orbit.</Description>
       </InformationURL>
       <Association>

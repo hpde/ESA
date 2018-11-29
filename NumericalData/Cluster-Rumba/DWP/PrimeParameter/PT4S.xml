@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Rumba Digital Wave Processor (DWP) prime parameter data at about 4 sec resolution (spin averaged) in GSE Coordinates</ResourceName>
       <AlternateName>Cluster Rumba DWP data</AlternateName>
-      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
+      <ReleaseDate>2018-11-29T15:24:14Z</ReleaseDate>
       <Description>Cluster Rumba Digital Wave Processor (DWP) data set contains various instrument status and data status flags as well as particle correlator information.</Description>
       <Acknowledgement>NASA; ESA; Dr. Hugo Alleyne</Acknowledgement>
       <Contact>
@@ -75,7 +75,7 @@
       </Contact>
       <InformationURL>
         <Name>NSSDC's Master Catalog</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=2000-045A-7</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2000-045A-07</URL>
         <Description>Information about the Digital Wave Processor (DWP) experiment on the Cluster 2/FM5 Rumba mission.</Description>
       </InformationURL>
       <PriorID>spase://VMO/NumericalData/Cluster-Rumba/DWP/PrimeParameter/PT4S</PriorID>
