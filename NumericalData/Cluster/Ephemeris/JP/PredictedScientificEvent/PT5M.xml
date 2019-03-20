@@ -4,12 +4,12 @@
   <NumericalData>
     <ResourceID>spase://ESA/NumericalData/Cluster/Ephemeris/JP/PredictedScientificEvent/PT5M</ResourceID>
     <ResourceHeader>
-      <ResourceName>Cluster Predicted Scientific Events (PSE) , JSOC Parameter (JP), 5 min Data</ResourceName>
+      <ResourceName>Cluster Predicted Scientific Events (PSE), JSOC Parameter (JP), 5 min Data</ResourceName>
       <ReleaseDate>2019-02-18T12:34:56.789</ReleaseDate>
       <Description>M.A. Hapgood et al, The Joint Science Operations Centre, Space Sci. Rev. 79, 487-525 (1997)
-                      NS S Southbound neutral sheet
-                      NT I Enter north tail lobe from inner magnetosphere
-                      ST O Leave south tail lobe for inner magnetosphere</Description>
+                   NS S Southbound neutral sheet
+                   NT I Enter north tail lobe from inner magnetosphere
+                   ST O Leave south tail lobe for inner magnetosphere</Description>
       <Acknowledgement>M.A. Hapgood. Refer to Cluster Science Data System, CSDS, for Rules of Acknowledgement Refer to Cluster Science Data System, CSDS, for Rules of Use.</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Michael.A.Hapgood</PersonID>
@@ -199,7 +199,7 @@
       <Description>Spacecraft Position, Predicted Latitude, Elevation Angle from Ecliptic Plane, Non-Event Times not plotted</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT5M</Cadence>
-      <Units>°</Units>
+      <Units>&#176;</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
