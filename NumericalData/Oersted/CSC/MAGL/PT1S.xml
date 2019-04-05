@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Oersted/CSC/MAGL/PT1S</ResourceID>
     <ResourceHeader>
       <ResourceName>Oersted Prelim Mag-L: High Precision Magnetic Field Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-04-04T22:02:01Z</ReleaseDate>
       <Description>This dataset contains 1 second measurements of the magnetic field vector from the Compact Spherical Coil (CSC) Fluxgate Vector Magnetometer on the Oersted spacecraft.</Description>
       <Acknowledgement>Dr. Fritz Primdahl; Dr. Ib Laursen; The European Space Agency; Danish Meteorological Institute (Denmark); Danish Ministry of Commerce (Denmark); Danish Ministry of Transportation (Denmark); Centre National d'Etudes Spatiales (France); National Aeronautics and Space Administration (United States); Danish Ministry of Science (Denmark); Danish Space Research Institute (Denmark)</Acknowledgement>
       <Contact>
@@ -19,8 +19,8 @@
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
-        <Name>MAG-L Format 1.1 Data Description</Name>
-        <URL>http://web.dmi.dk/projects/oersted/SDC/Format-MAG-L-1.1.shtml</URL>
+        <Name>MAG-L Data</Name>
+        <URL>https://ftp.space.dtu.dk/data/magnetic-satellites/Oersted/mag-l/</URL>
         <Description>Information about the Compact Spherical Coil Fluxgate Vector Magnetometer MAG-L data format.</Description>
         <Language>en</Language>
       </InformationURL>
@@ -33,7 +33,7 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>Virtual Magnetospheric Observatory</Name>
-        <URL>http://vmo.igpp.ucla.edu/data1/Oersted/CSC/MAGL/1S/</URL>
+        <URL>http://vmo.igpp.ucla.edu/data1/Oersted/mag-l/</URL>
         <Description>Compact Spherical Coil Fluxgate Vector Magnetometer MAG-L data format clearly described.</Description>
       </AccessURL>
       <Format>Text</Format>

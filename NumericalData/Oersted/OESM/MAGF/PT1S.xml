@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Oersted/OESM/MAGF/PT1S</ResourceID>
     <ResourceHeader>
       <ResourceName>Oersted Mag-F: High Precision Magnetic Scalar Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-04-04T22:02:01Z</ReleaseDate>
       <Description>This dataset contains 1 second measurements of the scalar magnetic field from the Overhauser Effect Scalar Magnetometer on the Oersted spacecraft.</Description>
       <Acknowledgement>Dr. Jose J Achache; Dr. Ib Laursen; The European Space Agency; Danish Meteorological Institute (Denmark); Danish Ministry of Commerce (Denmark); Danish Ministry of Transportation (Denmark); Centre National d'Etudes Spatiales (France); National Aeronautics and Space Administration (United States); Danish Ministry of Science (Denmark); Danish Space Research Institute (Denmark)</Acknowledgement>
       <Contact>
@@ -24,7 +24,7 @@
       </InformationURL>
       <InformationURL>
         <Name>High Precision Magnetic Scalar Data format</Name>
-        <URL>http://web.dmi.dk/projects/oersted/SDC/Format-MAG-F-1.1.shtml</URL>
+        <URL>https://ftp.space.dtu.dk/data/magnetic-satellites/Oersted/mag-f/</URL>
         <Description>Information about the Overhauser Effect Scalar Magnetometer data format.</Description>
         <Language>en</Language>
       </InformationURL>
@@ -37,7 +37,7 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>Virtual Magnetospheric Observatory</Name>
-        <URL>http://vmo.igpp.ucla.edu/data1/Oersted/OESM/MAGF/1S/</URL>
+        <URL>http://vmo.igpp.ucla.edu/data1/Oersted/mag-f/</URL>
         <Description>Overhauser Effect Scalar Magnetometer data</Description>
       </AccessURL>
       <Format>Text</Format>
