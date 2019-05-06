@@ -6,38 +6,38 @@
     <ResourceHeader>
       <ResourceName>Double Star 2 Spacecraft Data Low Energy Ion Detector (LEID) Prime Parameters Data</ResourceName>
       <AlternateName>TC 2 LEID Prime Parameters Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-05-05T12:34:56Z</ReleaseDate>
       <Description>The Double Star 2 Low Energy Ion Detector (LEID) prime parameter data set contains various parameters at spin resolution. These parameters include universal time, the instrument status, the ion density, ion bulk velocity, and ion temperature. These parameters are available through Double Star Science Data Centre The Data Ring with restricted access.</Description>
       <Acknowledgement>Dr. Zhen-Xing Liu, Dr. Q. Ren, Dr. Jinbin Cao, European Space Agency/International</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Zhen-Xing.Liu</PersonID>
         <Role>PrincipalInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Q.Ren</PersonID>
         <Role>PrincipalInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Jinbin.Cao</PersonID>
         <Role>PrincipalInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/James.M.Weygand</PersonID>
         <Role>MetadataContact</Role>
-      </Contact>
+</Contact>
       <InformationURL>
         <Name>Double Star 2 Low Energy Ion Detector (LEID)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2004-029A-04</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2004-029A-04</URL>
         <Description>Introduction to the Double Star 2 LEID Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <Association>
         <AssociationID>spase://SMWG/Observatory/DoubleStar2</AssociationID>
         <AssociationType>PartOf</AssociationType>
-      </Association>
+</Association>
       <PriorID>spase://VMO/NumericalData/DoubleStar2/LEID/PrimeParameters/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar2/LEID/PrimeParameters/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar2/LEID/PrimeParameters/PT4S</PriorID>
-    </ResourceHeader>
+</ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Double.Star.Data.Ring</RepositoryID>
       <Availability>Online</Availability>
@@ -47,23 +47,23 @@
         <URL>https://www.cosmos.esa.int/web/double-star/dsds-data-ring</URL>
         <Description>Double Star Data Center Hub web page. This page provides access to other sites with the prime parameter and summary parameter data from the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>Dr. Zhen-Xing Liu, Dr. Q. Ren, Dr. Jinbin Cao, European Space Agency/International</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Austrian.DSP.Data.Center</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Restricted</AccessRights>
       <AccessURL>
         <Name>The Austrian Double Star Parameters Data Center Home Page</Name>
-        <URL>http://dione.iwf.oeaw.ac.at/ddms</URL>
+        <URL>http://dione.iwf.oeaw.ac.at/ddms/</URL>
         <Description>An introduction to data access for the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>ESA, Double Star, Center for Space Science and Applied Research, and the Chinese Academy of Sciences</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderResourceName>Double Star 2 Low Energy Ion Detector (LEID) Prime Parameters Data</ProviderResourceName>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
@@ -75,9 +75,9 @@
         <StartDate>2004-08-09T09:39:12</StartDate>
         <StopDate>2005-10-31T17:38:00</StopDate>
         <Note>Time format in data files is: day, month, year hour, min, seconds. Ex: '01-Jan-1981 00:00:00.000'</Note>
-      </TimeSpan>
+</TimeSpan>
       <Cadence>PT4S</Cadence>
-    </TemporalDescription>
+</TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Main</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Polar</ObservedRegion>
@@ -106,12 +106,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Epoch</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1.0e31</FillValue>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 LEID Half Width of Measurement Interval Prime Parameter</Name>
       <ParameterKey>Half_interval__T2_PP_LEI</ParameterKey>
@@ -122,8 +122,8 @@
       <FillValue>-1.0e31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 LEID Status Prime Parameter</Name>
       <ParameterKey>Status__T2_PP_LEI</ParameterKey>
@@ -134,8 +134,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 LEID Low Energy Ion Density Prime Parameter</Name>
       <ParameterKey>N_ion__T2_PP_LEI</ParameterKey>
@@ -147,7 +147,7 @@
         <AxisLabel>n (LEID)</AxisLabel>
         <ScaleMin>0.0100</ScaleMin>
         <ScaleMax>1000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0100</ValidMin>
       <ValidMax>1000</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -155,8 +155,8 @@
         <ParticleType>Ion</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 LEID Low Energy Ion Bulk Velocity Prime Parameter</Name>
       <ParameterKey>V_ion_xyz_gse__T2_PP_LEI</ParameterKey>
@@ -167,29 +167,29 @@
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
-      </CoordinateSystem>
+</CoordinateSystem>
       <RenderingHints>
         <ScaleMin>-1000</ScaleMin>
         <ScaleMax>1000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>VX-GSE</Name>
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
-        </Element>
+</Element>
         <Element>
           <Name>VY-GSE</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
-        </Element>
+</Element>
         <Element>
           <Name>VZ-GSE</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
-        </Element>
-      </Structure>
+</Element>
+</Structure>
       <ValidMin>-2000</ValidMin>
       <ValidMax>2000</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -197,8 +197,8 @@
         <ParticleType>Ion</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 LEID Low Energy Parallel Ion Temperature Prime Parameter</Name>
       <ParameterKey>T_ion_par__T2_PP_LEI</ParameterKey>
@@ -210,7 +210,7 @@
         <AxisLabel>T_par (LEID)</AxisLabel>
         <ScaleMin>0.0</ScaleMin>
         <ScaleMax>200</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0</ValidMin>
       <ValidMax>200</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -218,8 +218,8 @@
         <ParticleType>Ion</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>Temperature</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 LEID Low Energy Ion Perpendicular Temperature Prime Parameter</Name>
       <ParameterKey>T_ion_perp__T2_PP_LEI</ParameterKey>
@@ -231,7 +231,7 @@
         <AxisLabel>T_perp (LEID)</AxisLabel>
         <ScaleMin>0.0</ScaleMin>
         <ScaleMax>200</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0</ValidMin>
       <ValidMax>200</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -239,7 +239,7 @@
         <ParticleType>Ion</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>Temperature</ParticleQuantity>
-      </Particle>
-    </Parameter>
-  </NumericalData>
+</Particle>
+</Parameter>
+</NumericalData>
 </Spase>

@@ -6,26 +6,26 @@
     <ResourceHeader>
       <ResourceName>Double Star 1 Spacecraft Auxiliary Summary Parameters Data</ResourceName>
       <AlternateName>TC 1 Auxiliary Summary Parameters Data</AlternateName>
-      <ReleaseDate>2018-11-29T15:24:14Z</ReleaseDate>
+      <ReleaseDate>2019-05-05T12:34:56Z</ReleaseDate>
       <Description>The Double Star 1 auxiliary summary parameter data set contains various parameters in GSE coordinates at 60 s resolution. These parameters include universal time, orbit number, GSE position, GSE spacecraft velocity vector, longitude, and dipole tilt. These parameters are available through Double Star Science Data Centre The Data Ring with restricted access.</Description>
       <Acknowledgement>European Space Agency/International</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/James.M.Weygand</PersonID>
         <Role>MetadataContact</Role>
-      </Contact>
+</Contact>
       <InformationURL>
         <Name>Double Star 1 Orbital Parameters</Name>
         <URL>https://nssdc.gsfc.nasa.gov/nmc/spacecraft/displayTrajectory.action?id=2003-061A</URL>
         <Description>Introduction to the Double Star 1 Orbit.</Description>
-      </InformationURL>
+</InformationURL>
       <Association>
         <AssociationID>spase://SMWG/Observatory/DoubleStar1</AssociationID>
         <AssociationType>PartOf</AssociationType>
-      </Association>
+</Association>
       <PriorID>spase://VMO/NumericalData/DoubleStar1/Ephemeris/SummaryParameters/60S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar1/Ephemeris/SummaryParameters/60S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar1/Ephemeris/SummaryParameters/PT60S</PriorID>
-    </ResourceHeader>
+</ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Double.Star.Data.Ring</RepositoryID>
       <Availability>Online</Availability>
@@ -35,29 +35,29 @@
         <URL>https://www.cosmos.esa.int/web/double-star/dsds</URL>
         <Description>Double Star Data Center Hub web page. This page provides access to other sites with the prime parameter and summary parameter data from the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <AccessURL>
         <Name>The Cluster and Double Star Science Archive</Name>
         <URL>https://www.cosmos.esa.int/web/csa</URL>
         <Description>Access to the archive through its Java user interface and command-line website .</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>European Space Agency/International</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Austrian.DSP.Data.Center</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Restricted</AccessRights>
       <AccessURL>
         <Name>The Austrian Double Star Parameters Data Center Home Page</Name>
-        <URL>http://dione.iwf.oeaw.ac.at/ddms</URL>
+        <URL>http://dione.iwf.oeaw.ac.at/ddms/</URL>
         <Description>An introduction to data access for the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>ESA, Double Star, Center for Space Science and Applied Research, and the Chinese Academy of Sciences</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
       <Availability>Online</Availability>
@@ -66,9 +66,9 @@
         <Name>SSCWeb</Name>
         <URL>https://sscweb.gsfc.nasa.gov/cgi-bin/Locator.cgi</URL>
         <ProductKey>doublestar1</ProductKey>
-      </AccessURL>
+</AccessURL>
       <Format>Text</Format>
-    </AccessInformation>
+</AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderResourceName>Double Star 1 Auxiliary Summary Parameters Data</ProviderResourceName>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
@@ -80,9 +80,9 @@
         <StartDate>2004-01-05T00:00:30</StartDate>
         <StopDate>2007-09-19T23:59:30</StopDate>
         <Note>Time format in data files is: day, month, year hour, min, seconds. Ex: '01-Jan-1981 00:00:00.000'</Note>
-      </TimeSpan>
+</TimeSpan>
       <Cadence>PT60S</Cadence>
-    </TemporalDescription>
+</TemporalDescription>
     <ObservedRegion>Earth.Magnetosheath</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Magnetotail</ObservedRegion>
@@ -107,12 +107,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Epoch</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1e+31</FillValue>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Half Interval Auxiliary Summary Parameter</Name>
       <ParameterKey>Half_interval__T1_SP_AUX</ParameterKey>
@@ -122,12 +122,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Half sample time interval</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1e+31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Status Auxiliary Summary Parameter</Name>
       <ParameterKey>Status__T1_SP_AUX</ParameterKey>
@@ -138,8 +138,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Orbit Number Auxiliary Summary Parameter</Name>
       <ParameterKey>sc_orbit_num__T1_SP_AUX</ParameterKey>
@@ -149,15 +149,15 @@
         <AxisLabel>fract orbit</AxisLabel>
         <ScaleMin>0</ScaleMin>
         <ScaleMax>700</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>1500</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Scalar</Qualifier>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Spacecraft GSE Position Auxiliary Summary Parameter</Name>
       <ParameterKey>sc_r_xyz_gse__T1_SP_AUX</ParameterKey>
@@ -168,37 +168,37 @@
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
-      </CoordinateSystem>
+</CoordinateSystem>
       <RenderingHints>
         <ScaleMin>-50000</ScaleMin>
         <ScaleMax>50000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>X-GSE</Name>
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
-        </Element>
+</Element>
         <Element>
           <Name>Y-GSE</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
-        </Element>
+</Element>
         <Element>
           <Name>Z-GSE</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
-        </Element>
-      </Structure>
+</Element>
+</Structure>
       <ValidMin>-50000</ValidMin>
       <ValidMax>50000</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Vector</Qualifier>
         <SupportQuantity>Positional</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Spacecraft Velocity Vector in GSE Auxiliary Summary Parameter</Name>
       <ParameterKey>sc_v_xyz_gse__T1_SP_AUX</ParameterKey>
@@ -209,37 +209,37 @@
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
-      </CoordinateSystem>
+</CoordinateSystem>
       <RenderingHints>
         <ScaleMin>-10</ScaleMin>
         <ScaleMax>10</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>VX-GSE</Name>
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
-        </Element>
+</Element>
         <Element>
           <Name>VY-GSE</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
-        </Element>
+</Element>
         <Element>
           <Name>VZ-GSE</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
-        </Element>
-      </Structure>
+</Element>
+</Structure>
       <ValidMin>-10</ValidMin>
       <ValidMax>10</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Vector</Qualifier>
         <SupportQuantity>Velocity</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Spacecraft GSE Latitude of Double Star 1 Axis Auxiliary Summary Parameter</Name>
       <ParameterKey>sc_at_lat__T1_SP_AUX</ParameterKey>
@@ -249,15 +249,15 @@
         <AxisLabel>degrees</AxisLabel>
         <ScaleMin>-90</ScaleMin>
         <ScaleMax>90</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-90</ValidMin>
       <ValidMax>90</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Scalar</Qualifier>
         <SupportQuantity>Positional</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Spacecraft GSE Longitude of Double Star 1 Axis Auxiliary Summary Parameter</Name>
       <ParameterKey>sc_at_long__T1_SP_AUX</ParameterKey>
@@ -267,15 +267,15 @@
         <AxisLabel>degrees</AxisLabel>
         <ScaleMin>0</ScaleMin>
         <ScaleMax>360</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>360</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Scalar</Qualifier>
         <SupportQuantity>Positional</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Rotation Angle to Convert GSE to GSM Auxiliary Summary Parameter</Name>
       <ParameterKey>gse_gsm__T1_SP_AUX</ParameterKey>
@@ -285,15 +285,15 @@
         <AxisLabel>degrees</AxisLabel>
         <ScaleMin>-90</ScaleMin>
         <ScaleMax>90</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-90</ValidMin>
       <ValidMax>90</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Scalar</Qualifier>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 1 Dipole Tilt in GSM Z-X Plane Auxiliary Summary Parameter</Name>
       <ParameterKey>dipole_tilt__T1_SP_AUX</ParameterKey>
@@ -303,14 +303,14 @@
         <AxisLabel>degrees</AxisLabel>
         <ScaleMin>-90</ScaleMin>
         <ScaleMax>90</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-90</ValidMin>
       <ValidMax>90</ValidMax>
       <FillValue>-1e+31</FillValue>
       <Support>
         <Qualifier>Scalar</Qualifier>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
-  </NumericalData>
+</Support>
+</Parameter>
+</NumericalData>
 </Spase>

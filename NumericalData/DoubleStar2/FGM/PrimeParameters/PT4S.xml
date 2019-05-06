@@ -6,30 +6,30 @@
     <ResourceHeader>
       <ResourceName>Double Star 2 Spacecraft Flux Gate Magnetometer (FGM) Prime Parameters Data</ResourceName>
       <AlternateName>TC 2 FGM Prime Parameters Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-05-05T12:34:56Z</ReleaseDate>
       <Description>The Double Star 2 Flux Gate Magnetometer (FGM) prime parameter data set contains various parameters in GSE coordinates at spin resolution. These parameters include universal time, the instrument status, the magnetic field vector in GSE coordinates, and the magnetic field variances. These parameters are available through Double Star Science Data Centre The Data Ring with restricted access.</Description>
       <Acknowledgement>Dr. Tielong Zhang, European Space Agency/International</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Tielong.Zhang</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/James.M.Weygand</PersonID>
         <Role>MetadataContact</Role>
-      </Contact>
+</Contact>
       <InformationURL>
         <Name>Double Star 2 Flux Gate Magnetometer (FGM)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2004-029A-02</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2004-029A-02</URL>
         <Description>Introduction to the Double Star 2 FGM Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <Association>
         <AssociationID>spase://SMWG/Observatory/DoubleStar2</AssociationID>
         <AssociationType>PartOf</AssociationType>
-      </Association>
+</Association>
       <PriorID>spase://VMO/NumericalData/DoubleStar2/FGM/PrimeParameters/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar2/FGM/PrimeParameters/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar2/FGM/PrimeParameters/PT4S</PriorID>
-    </ResourceHeader>
+</ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Double.Star.Data.Ring</RepositoryID>
       <Availability>Online</Availability>
@@ -39,23 +39,23 @@
         <URL>https://www.cosmos.esa.int/web/double-star/dsds-data-ring</URL>
         <Description>Double Star Data Center Hub web page. This page provides access to other sites with the prime parameter and summary parameter data from the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>Dr. Tielong Zhang, European Space Agency/International</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Austrian.DSP.Data.Center</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Restricted</AccessRights>
       <AccessURL>
         <Name>The Austrian Double Star Parameters Data Center Home Page</Name>
-        <URL>http://dione.iwf.oeaw.ac.at/ddms</URL>
+        <URL>http://dione.iwf.oeaw.ac.at/ddms/</URL>
         <Description>An introduction to data access for the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>ESA, Double Star, Center for Space Science and Applied Research, and the Chinese Academy of Sciences</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderResourceName>Double Star 2 Flux Gate Magnetometer (FGM) Prime Parameters Data</ProviderResourceName>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
@@ -67,9 +67,9 @@
         <StartDate>2004-07-30T07:00:49</StartDate>
         <StopDate>2008-05-31T18:59:05</StopDate>
         <Note>Time format in data files is: day, month, year hour, min, seconds. Ex: '01-Jan-1981 00:00:00.000'</Note>
-      </TimeSpan>
+</TimeSpan>
       <Cadence>PT4S</Cadence>
-    </TemporalDescription>
+</TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Main</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Polar</ObservedRegion>
@@ -99,12 +99,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Epoch</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1.0e31</FillValue>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 FGM Half Interval Prime Parameter</Name>
       <ParameterKey>Half_interval__T2_PP_FGM</ParameterKey>
@@ -114,12 +114,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Half sample time interval</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1.0e31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 FGM Status Prime Parameter</Name>
       <ParameterKey>Status__T2_PP_FGM</ParameterKey>
@@ -130,8 +130,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 FGM DC Magnetic Field Vector Prime Parameter</Name>
       <ParameterKey>B_xyz_gse__T2_PP_FGM</ParameterKey>
@@ -142,37 +142,37 @@
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
-      </CoordinateSystem>
+</CoordinateSystem>
       <RenderingHints>
         <ScaleMin>-32768.0</ScaleMin>
         <ScaleMax>32768.0</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>BX-GSE</Name>
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
-        </Element>
+</Element>
         <Element>
           <Name>BY-GSE</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
-        </Element>
+</Element>
         <Element>
           <Name>BZ-GSE</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
-        </Element>
-      </Structure>
+</Element>
+</Structure>
       <ValidMin>-32768.0</ValidMin>
       <ValidMax>32768.0</ValidMax>
       <FillValue>-1.0e31</FillValue>
       <Field>
         <Qualifier>Vector</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
-      </Field>
-    </Parameter>
+</Field>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 FGM Magnetic Variance Summed Prime Parameter</Name>
       <ParameterKey>B_nsigma_t__T2_PP_FGM</ParameterKey>
@@ -182,15 +182,15 @@
         <AxisLabel>dB_t^2/B^2</AxisLabel>
         <ScaleMin>0.0</ScaleMin>
         <ScaleMax>1.0</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0</ValidMin>
       <ValidMax>1.0</ValidMax>
       <FillValue>-1.0e31</FillValue>
       <Field>
         <Qualifier>Variance</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
-      </Field>
-    </Parameter>
+</Field>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 FGM Magnetic Variance of the Magnitude Prime Parameter</Name>
       <ParameterKey>B_nsigma_b__T2_PP_FGM</ParameterKey>
@@ -200,14 +200,14 @@
         <AxisLabel>dB_b^2/B^2</AxisLabel>
         <ScaleMin>0.0</ScaleMin>
         <ScaleMax>1.0</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0</ValidMin>
       <ValidMax>1.0</ValidMax>
       <FillValue>-1.0e31</FillValue>
       <Field>
         <Qualifier>Variance</Qualifier>
         <FieldQuantity>Magnetic</FieldQuantity>
-      </Field>
-    </Parameter>
-  </NumericalData>
+</Field>
+</Parameter>
+</NumericalData>
 </Spase>

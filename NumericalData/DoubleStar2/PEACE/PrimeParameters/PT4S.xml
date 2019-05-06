@@ -6,30 +6,30 @@
     <ResourceHeader>
       <ResourceName>Double Star 2 Spacecraft Data Plasma Electron and Current Experiment (PEACE) Prime Parameters Data</ResourceName>
       <AlternateName>TC 2 PEACE Prime Parameters Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-05-05T12:34:56Z</ReleaseDate>
       <Description>The Double Star 2 Plasma Electron and Current Experiment (PEACE) prime parameter data set contains various parameters at spin resolution. These parameters include universal time, the instrument status, the electron density, electron bulk velocity, electron temperature, and electron heat flux. These parameters are available through Double Star Science Data Centre The Data Ring with restricted access.</Description>
       <Acknowledgement>Dr. Andrew N. Fazakerley, European Space Agency/International</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Andrew.N.Fazakerley</PersonID>
         <Role>PrincipalInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/James.M.Weygand</PersonID>
         <Role>MetadataContact</Role>
-      </Contact>
+</Contact>
       <InformationURL>
         <Name>Double Star 2 Plasma Electron and Current Experiment (PEACE)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2004-029A-03</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2004-029A-03</URL>
         <Description>Introduction to the Double Star 2 PEACE Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <Association>
         <AssociationID>spase://SMWG/Observatory/DoubleStar2</AssociationID>
         <AssociationType>PartOf</AssociationType>
-      </Association>
+</Association>
       <PriorID>spase://VMO/NumericalData/DoubleStar2/PEACE/PrimeParameters/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar2/PEACE/PrimeParameters/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/DoubleStar2/PEACE/PrimeParameters/PT4S</PriorID>
-    </ResourceHeader>
+</ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Double.Star.Data.Ring</RepositoryID>
       <Availability>Online</Availability>
@@ -39,23 +39,23 @@
         <URL>https://www.cosmos.esa.int/web/double-star/dsds-data-ring</URL>
         <Description>Double Star Data Center Hub web page. This page provides access to other sites with the prime parameter and summary parameter data from the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>Dr. Andrew N. Fazakerley, European Space Agency/International</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/ESA/Austrian.DSP.Data.Center</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Restricted</AccessRights>
       <AccessURL>
         <Name>The Austrian Double Star Parameters Data Center Home Page</Name>
-        <URL>http://dione.iwf.oeaw.ac.at/ddms</URL>
+        <URL>http://dione.iwf.oeaw.ac.at/ddms/</URL>
         <Description>An introduction to data access for the Double Star mission.</Description>
         <Language>English</Language>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>ESA, Double Star, Center for Space Science and Applied Research, and the Chinese Academy of Sciences</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderResourceName>Double Star 2 Plasma Electron and Current Experiment (PEACE) Prime Parameters Data</ProviderResourceName>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
@@ -67,9 +67,9 @@
         <StartDate>2004-08-15T00:58:10</StartDate>
         <StopDate>2008-05-30T23:56:46</StopDate>
         <Note>Time format in data files is: day, month, year hour, min, seconds. Ex: '01-Jan-1981 00:00:00.000'</Note>
-      </TimeSpan>
+</TimeSpan>
       <Cadence>PT4S</Cadence>
-    </TemporalDescription>
+</TemporalDescription>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Main</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Polar</ObservedRegion>
@@ -98,12 +98,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Epoch</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1.0e31</FillValue>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Half Width of Measurement Interval Prime Parameter</Name>
       <ParameterKey>Half_interval__T2_PP_PEA</ParameterKey>
@@ -114,8 +114,8 @@
       <FillValue>-1.0e31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Status Prime Parameter</Name>
       <ParameterKey>Status__T2_PP_PEA</ParameterKey>
@@ -126,8 +126,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Electron Number Density Prime Parameter</Name>
       <ParameterKey>N_e_den__T2_PP_PEA</ParameterKey>
@@ -139,7 +139,7 @@
         <AxisLabel>Ne</AxisLabel>
         <ScaleMin>0.1000</ScaleMin>
         <ScaleMax>1000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.1000</ValidMin>
       <ValidMax>10000</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -147,8 +147,8 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>NumberDensity</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Electron Velocity Prime Parameter</Name>
       <ParameterKey>V_e_xyz_gse__T2_PP_PEA</ParameterKey>
@@ -159,29 +159,29 @@
       <CoordinateSystem>
         <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
         <CoordinateSystemName>GSE</CoordinateSystemName>
-      </CoordinateSystem>
+</CoordinateSystem>
       <RenderingHints>
         <ScaleMin>-1000</ScaleMin>
         <ScaleMax>1000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <Structure>
         <Size>3</Size>
         <Element>
           <Name>VX-GSE</Name>
           <Qualifier>Component.I</Qualifier>
           <Index>1</Index>
-        </Element>
+</Element>
         <Element>
           <Name>VY-GSE</Name>
           <Qualifier>Component.J</Qualifier>
           <Index>2</Index>
-        </Element>
+</Element>
         <Element>
           <Name>VZ-GSE</Name>
           <Qualifier>Component.K</Qualifier>
           <Index>3</Index>
-        </Element>
-      </Structure>
+</Element>
+</Structure>
       <ValidMin>-10000</ValidMin>
       <ValidMax>10000</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -189,8 +189,8 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Vector</Qualifier>
         <ParticleQuantity>Velocity</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Parallel Electron Temperature Prime Parameter</Name>
       <ParameterKey>T_e_par__T2_PP_PEA</ParameterKey>
@@ -202,7 +202,7 @@
         <AxisLabel>Te_par</AxisLabel>
         <ScaleMin>0.0100</ScaleMin>
         <ScaleMax>1000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0100</ValidMin>
       <ValidMax>350</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -210,8 +210,8 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>Temperature</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Perpendicular Electron Temperature Prime Parameter</Name>
       <ParameterKey>T_e_perp__T2_PP_PEA</ParameterKey>
@@ -223,7 +223,7 @@
         <AxisLabel>Te_perp</AxisLabel>
         <ScaleMin>0.0100</ScaleMin>
         <ScaleMax>1000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0100</ValidMin>
       <ValidMax>350</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -231,8 +231,8 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>Temperature</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Double Star 2 PEACE Parallel Electron Heat Flux Prime Parameter</Name>
       <ParameterKey>Q_e_par__T2_PP_PEA</ParameterKey>
@@ -244,7 +244,7 @@
         <AxisLabel>Qe_para</AxisLabel>
         <ScaleMin>0.0100</ScaleMin>
         <ScaleMax>100000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0100</ValidMin>
       <ValidMax>100000</ValidMax>
       <FillValue>-1.0e31</FillValue>
@@ -252,7 +252,7 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>HeatFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
-  </NumericalData>
+</Particle>
+</Parameter>
+</NumericalData>
 </Spase>

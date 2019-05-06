@@ -6,196 +6,196 @@
     <ResourceHeader>
       <ResourceName>Cluster-Samba Prime Parameter Electric Field and Waves (EFW) Data</ResourceName>
       <AlternateName>Cluster 3 Prime Parameter EFW Data</AlternateName>
-      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
+      <ReleaseDate>2019-05-05T12:34:56Z</ReleaseDate>
       <Description>The EFW (Electric Field and Waves) instrument consists of four orthogonal spherical sensors deployed from 50 m cable booms in the spin plane of the spacecraft, plus four deployment units and a main electronics unit. Each deployment unit deploys a multiconductor cable and tip-mounted spherical sensor. Each opposing pair of cables will be symmetrically deployed to a tip-to-tip distance of approximately 100 m, except for about a week at the beginning of the mission when 70 m will be used for one boom pair (the Z-booms) and 100 m for the other pair. The potentials of the spherical sensor and nearby conductors are controlled by the microprocessor to minimize errors associated with photoelectron fluxes to and from the spheres. Output signals from the sensor preamplifiers are provided to the wave instruments for analysis of high frequency wave phenomena. There is a 1 MB burst memory and tow fast A/D conversion circuits for recording electric field wave forms for time resolutions of up to 36,000 samples/s. Data gathered in the burst memory will be played back through the telemetry stream allocated to the instrument by pre-empting a portion of the real-time data. Incoming data are continuously monitored by algorithms in the software to determine whether to trigger the burst-playback mode. A large number of sampling modes is possible, yielding four possible telemetry rates from 1.440-29.440 Kbps. This data stream is transferred via the DWP instrument. The main measured quantities will be, in various modes: (1) the instantaneous spin-plane components of the electric field vector, from 0.1-700 V/Km, with time resolution down to 0.1 ms, in four frequency ranges from DC to upper limits of 10 Hz, 180 Hz, 4 KHz, or 32 KHz; (2) the AC electric field components from 10 Hz to 8 KHz, within the dynamic range of ~3 mV/Km to 10 V/Km; (3) plasma density fluctuations within the range of 1-100/cm and in three frequency ranges from 0 Hz to upper limits of 10 Hz, 180 Hz, or 4 KHz; and, (4) density and temperature (in Langmuir sweeps) in the eV range, with a dynamic range of 1-100/cm. There is also a frequency counter covering the range 10-200 KHz. On-board calculations of least-square fits to the electric field data over one spacecraft spin period (4 s) will provide a baseline of high-quality two-dimensional electric field components that are present in the telemetry stream, except for periods when three or four sensors are in current mode. The spacecraft potential is calculated and transmitted via DWP to other instruments on board. The three components from the search coil instrument (WHISPER) are also available in EFW with a bandwidth of 4 KHz. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article The Spherical Probe Electric Field and Waves experiment for the Cluster Mission, by G. Gustafsson et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Georg Gustafsson</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Georg.Gustafsson</PersonID>
         <Role>PrincipalInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Arne.Pedersen</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Les.J.C.Woolliscroft</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Thomas.L.Aggson</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Alv.A.Egeland</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Forrest.S.Mozer</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Donald.A.Gurnett</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Rolf.Bostrom</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Carle-Gunne.Falthammar</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Lars.Peter.Block</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Paul.J.Kellogg</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Eivind.V.Thrane</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Nelson.C.Maynard</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Jan.A.Holtet</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Christopher.C.Harvey</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Rejean.J.L.Grard</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Pekka.J.Tanskanen</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Paul.M.Kintner</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Bengt.Holback</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Gunnar.Holmgren</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Alain.Roux</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Cynthia.A.Cattell</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Kristof.Stasiewicz</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Pierrette.Decreau</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Michael.Smiddy</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/John.R.Wygant</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Per-Arne.Lindqvist</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Howard.J.Singer</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Michael.A.Temerin</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Robert.F.Pfaff</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Jean-Pierre.Lebreton</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Stanislav.I.Klimov</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Goran.T.Marklund</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Robert.Manning</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Ilan.Roth</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Rudolf.J.Schmidt</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Kalevi.Mursula</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/James.M.Weygand</PersonID>
         <Role>MetadataContact</Role>
-      </Contact>
+</Contact>
       <InformationURL>
         <Name>NSSDC Master Catalog listing for Cluster II Samba Electric Field and Waves (EFW)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2000-041A-08</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2000-041A-08</URL>
         <Description>This site provides information concerning the Cluster II Samba Electric Field and Waves Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <Association>
         <AssociationID>spase://SMWG/Observatory/Cluster-Samba</AssociationID>
         <AssociationType>ObservedBy</AssociationType>
-      </Association>
+</Association>
       <PriorID>spase://VMO/NumericalData/Cluster2-Samba/EFW/PrimeParameter/4S</PriorID>
       <PriorID>spase://VMO/NumericalData/Cluster-Samba/EFW/PrimeParameter/4S</PriorID>
       <PriorID>spase://VSPO/NumericalData/Cluster-Samba/EFW/PrimeParameter/PT4S</PriorID>
-    </ResourceHeader>
+</ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF/CDAWeb</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>FTP access to files at SPDF</Name>
-        <URL>ftp://spdf.gsfc.nasa.gov/pub/data/cluster/c3/pp/efw</URL>
+        <URL>ftp://spdf.gsfc.nasa.gov/pub/data/cluster/c3/pp/efw/</URL>
         <Description>Cluster II Samba Prime Parameter Electric Field and Waves (EFW) data</Description>
-      </AccessURL>
+</AccessURL>
       <AccessURL>
         <Name>HTTP access to files at SPDF</Name>
-        <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c3/pp/efw</URL>
+        <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c3/pp/efw/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
-      </AccessURL>
+</AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
         <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C3_PP_EFW&amp;index=sp_phys</URL>
         <ProductKey>C3_PP_EFW</ProductKey>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>NASA, Georg Gustafsson</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderResourceName>Cluster II Samba Prime Parameter Electric Field and Waves (EFW) Data</ProviderResourceName>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
@@ -208,9 +208,9 @@
         <StartDate>2000-12-09T00:00:00</StartDate>
         <RelativeStopDate>-P3M</RelativeStopDate>
         <Note>Time format in data files is: day, month, year hour, min, seconds. Ex: 01-Jan-1981 00:00:00.000</Note>
-      </TimeSpan>
+</TimeSpan>
       <Cadence>PT4S</Cadence>
-    </TemporalDescription>
+</TemporalDescription>
     <ObservedRegion>Earth.Magnetosheath</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Magnetotail</ObservedRegion>
@@ -242,8 +242,8 @@
       <FillValue>-1.0000e+31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Universal Time</Name>
       <ParameterKey>Epoch__C3_PP_EFW</ParameterKey>
@@ -254,12 +254,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Epoch</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1.0000e+31</FillValue>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Status</Name>
       <ParameterKey>Status__C3_PP_EFW</ParameterKey>
@@ -270,8 +270,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Wave Experiment Consortium (WEC) Status</Name>
       <ParameterKey>State_wec__C3_PP_EFW</ParameterKey>
@@ -282,8 +282,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Duskward Electric Field</Name>
       <ParameterKey>E_dusk__C3_PP_EFW</ParameterKey>
@@ -295,15 +295,15 @@
         <AxisLabel>E_dusk</AxisLabel>
         <ScaleMin>-20</ScaleMin>
         <ScaleMax>20</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-700</ValidMin>
       <ValidMax>700</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Electric</FieldQuantity>
-      </Field>
-    </Parameter>
+</Field>
+</Parameter>
     <Parameter>
       <Name>F1 Band Spectral Density</Name>
       <ParameterKey>E_pow_f1__C3_PP_EFW</ParameterKey>
@@ -315,7 +315,7 @@
         <AxisLabel>E_pow_f1</AxisLabel>
         <ScaleMin>1.0000e-12</ScaleMin>
         <ScaleMax>1.0000e-4</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>1.0000e-13</ValidMin>
       <ValidMax>0.0010</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -326,9 +326,9 @@
           <Low>1</Low>
           <High>10</High>
           <Units>Hz</Units>
-        </FrequencyRange>
-      </Field>
-    </Parameter>
+</FrequencyRange>
+</Field>
+</Parameter>
     <Parameter>
       <Name>F2 Band Spectral Density</Name>
       <ParameterKey>E_pow_f2__C3_PP_EFW</ParameterKey>
@@ -340,7 +340,7 @@
         <AxisLabel>E_pow_f2</AxisLabel>
         <ScaleMin>1.0000e-13</ScaleMin>
         <ScaleMax>1.0000e-5</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>1.0000e-14</ValidMin>
       <ValidMax>1.0000e-4</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -351,9 +351,9 @@
           <Low>10</Low>
           <High>180</High>
           <Units>Hz</Units>
-        </FrequencyRange>
-      </Field>
-    </Parameter>
+</FrequencyRange>
+</Field>
+</Parameter>
     <Parameter>
       <Name>Electric Field Variation</Name>
       <ParameterKey>E_sigma__C3_PP_EFW</ParameterKey>
@@ -365,15 +365,15 @@
         <AxisLabel>E_sigma</AxisLabel>
         <ScaleMin>0</ScaleMin>
         <ScaleMax>40</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>700</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Electric</FieldQuantity>
-      </Field>
-    </Parameter>
+</Field>
+</Parameter>
     <Parameter>
       <Name>Probe Current</Name>
       <ParameterKey>I_probe__C3_PP_EFW</ParameterKey>
@@ -385,15 +385,15 @@
         <AxisLabel>I_probe</AxisLabel>
         <ScaleMin>0.1000</ScaleMin>
         <ScaleMax>2000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0.0010</ValidMin>
       <ValidMax>2000</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Current</FieldQuantity>
-      </Field>
-    </Parameter>
+</Field>
+</Parameter>
     <Parameter>
       <Name>Probe Potential</Name>
       <ParameterKey>U_probe_sc__C3_PP_EFW</ParameterKey>
@@ -405,14 +405,14 @@
         <AxisLabel>U_probe_sc</AxisLabel>
         <ScaleMin>-60</ScaleMin>
         <ScaleMax>0</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-75</ValidMin>
       <ValidMax>25</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
       <Field>
         <Qualifier>Scalar</Qualifier>
         <FieldQuantity>Potential</FieldQuantity>
-      </Field>
-    </Parameter>
-  </NumericalData>
+</Field>
+</Parameter>
+</NumericalData>
 </Spase>

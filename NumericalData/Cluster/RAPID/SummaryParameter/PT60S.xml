@@ -6,133 +6,133 @@
     <ResourceHeader>
       <ResourceName>Cluster Summary Parameter Research with Adaptive Particle Imaging Detectors (RAPID) Data</ResourceName>
       <AlternateName>Cluster Summary Parameter RAPID Data</AlternateName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-05-05T12:34:56Z</ReleaseDate>
       <Description>The dual-sensor spectrometer RAPID (Research with Adaptive Particle Imaging Detectors) analyzes suprathermal plasma distributions in the energy range from 20-400 KeV for electrons and from 2 KeV/nucleon to 1.50 MeV/nucleon for ions. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article RAPID: The Imaging Energetic Particle Spectrometer on Cluster, by B. Wilken et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Dr. Berend Wilken, European Space Agency</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Berend.Wilken</PersonID>
         <Role>PrincipalInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Joseph.F.Fennell</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/J.Bernard.Blake</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Finn.Soraas</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Bengt.K.G.Hultqvist</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Richard.D.Belian</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Theodore.Allan.Fritz</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Axel.Korth</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Hans.Borg</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Pekka.J.Tanskanen</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Gerhard.Kremser</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/David.S.Hall</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Stein.Ullaland</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Daniel.N.Baker</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Fritz.O.Gliem</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Peter.W.Daly</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Susan.M.P.McKenna-Lawlor</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Stefano.A.Livi</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Kalevi.Mursula</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/Manuel.Grande</PersonID>
         <Role>CoInvestigator</Role>
-      </Contact>
+</Contact>
       <Contact>
         <PersonID>spase://SMWG/Person/James.M.Weygand</PersonID>
         <Role>MetadataContact</Role>
-      </Contact>
+</Contact>
       <InformationURL>
         <Name>NSSDC Master Catalog listing for Cluster II Rumba Research with Adaptive Particle Imaging Detectors (RAPID)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2000-045A-06</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2000-045A-06</URL>
         <Description>This site provides information concerning the Cluster II Rumba Research with Adaptive Particle Imaging Detectors Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <InformationURL>
         <Name>NSSDC Master Catalog listing for Cluster II Salsa Research with Adaptive Particle Imaging Detectors (RAPID)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2000-041B-06</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2000-041B-06</URL>
         <Description>This site provides information concerning the Cluster II Salsa Research with Adaptive Particle Imaging Detectors Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <InformationURL>
         <Name>NSSDC Master Catalog listing for Cluster II Samba Research with Adaptive Particle Imaging Detectors (RAPID)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2000-041A-06</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2000-041A-06</URL>
         <Description>This site provides information concerning the Cluster II Samba Research with Adaptive Particle Imaging Detectors Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <InformationURL>
         <Name>NSSDC Master Catalog listing for Cluster II Tango Research with Adaptive Particle Imaging Detectors (RAPID)</Name>
-        <URL>https://nssdc.gsfc.nasa.gov/nmc/experimentDisplay.do?id=2000-045B-06</URL>
+        <URL>https://nssdc.gsfc.nasa.gov/nmc/experiment/display.action?id=2000-045B-06</URL>
         <Description>This site provides information concerning the Cluster II Tango Research with Adaptive Particle Imaging Detectors Instrument.</Description>
-      </InformationURL>
+</InformationURL>
       <Association>
         <AssociationID>spase://SMWG/Observatory/Cluster-Rumba</AssociationID>
         <AssociationType>ObservedBy</AssociationType>
-      </Association>
+</Association>
       <Association>
         <AssociationID>spase://SMWG/Observatory/Cluster-Salsa</AssociationID>
         <AssociationType>ObservedBy</AssociationType>
-      </Association>
+</Association>
       <Association>
         <AssociationID>spase://SMWG/Observatory/Cluster-Samba</AssociationID>
         <AssociationType>ObservedBy</AssociationType>
-      </Association>
+</Association>
       <Association>
         <AssociationID>spase://SMWG/Observatory/Cluster-Tango</AssociationID>
         <AssociationType>ObservedBy</AssociationType>
-      </Association>
+</Association>
       <PriorID>spase://VMO/NumericalData/Cluster2/RAPID/SummaryParameter/60S</PriorID>
       <PriorID>spase://VMO/NumericalData/Cluster/RAPID/SummaryParameter/60S</PriorID>
       <PriorID>spase://VSPO/NumericalData/Cluster/RAPID/SummaryParameter/PT60S</PriorID>
-    </ResourceHeader>
+</ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
       <Availability>Online</Availability>
@@ -141,15 +141,15 @@
         <Name>FTP access to files at SPDF</Name>
         <URL>ftp://spdf.gsfc.nasa.gov/pub/data/cluster/cl/sp/rap/</URL>
         <Description>Cluster II Summary Parameter Research with Adaptive Particle Imaging Detectors (RAPID) data</Description>
-      </AccessURL>
+</AccessURL>
       <AccessURL>
         <Name>HTTP access to files at SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/cl/sp/rap/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
-      </AccessURL>
+</AccessURL>
       <Format>CDF</Format>
       <Acknowledgement>NASA, Dr. Berend Wilken</Acknowledgement>
-    </AccessInformation>
+</AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
     <ProviderResourceName>Cluster II Summary Parameter Research with Adaptive Particle Imaging Detectors (RAPID) Data</ProviderResourceName>
     <ProviderProcessingLevel>Calibrated</ProviderProcessingLevel>
@@ -164,9 +164,9 @@
         <StartDate>2001-01-01T00:00:00.000</StartDate>
         <RelativeStopDate>-P3M</RelativeStopDate>
         <Note>Time format in data files is: day, month, year hour, min, seconds. Ex: 01-Jan-1981 00:00:00.000</Note>
-      </TimeSpan>
+</TimeSpan>
       <Cadence>PT60S</Cadence>
-    </TemporalDescription>
+</TemporalDescription>
     <ObservedRegion>Earth.Magnetosheath</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere</ObservedRegion>
     <ObservedRegion>Earth.Magnetosphere.Magnetotail</ObservedRegion>
@@ -199,8 +199,8 @@
       <FillValue>-1.0000e+31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Universal Time</Name>
       <ParameterKey>Epoch__CL_SP_RAP</ParameterKey>
@@ -210,12 +210,12 @@
       <UnitsConversion>1.0e-3&gt;s</UnitsConversion>
       <RenderingHints>
         <AxisLabel>Epoch</AxisLabel>
-      </RenderingHints>
+</RenderingHints>
       <FillValue>-1.0000e+31</FillValue>
       <Support>
         <SupportQuantity>Temporal</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Status</Name>
       <ParameterKey>Status__CL_SP_RAP</ParameterKey>
@@ -226,8 +226,8 @@
       <FillValue>255</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Electron Flux (E&gt;50 keV)</Name>
       <ParameterKey>J_e_lo__CL_SP_RAP</ParameterKey>
@@ -239,7 +239,7 @@
         <AxisLabel>J(e,lo)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -247,8 +247,8 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Electron Flux (E&gt;95 keV)</Name>
       <ParameterKey>J_e_hi__CL_SP_RAP</ParameterKey>
@@ -260,7 +260,7 @@
         <AxisLabel>J(e,hi)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -268,8 +268,8 @@
         <ParticleType>Electron</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Proton Flux (E&gt;28 keV)</Name>
       <ParameterKey>J_p_lo__CL_SP_RAP</ParameterKey>
@@ -281,7 +281,7 @@
         <AxisLabel>J(p,lo)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -289,8 +289,8 @@
         <ParticleType>Proton</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Proton Flux (E&gt;92 keV)</Name>
       <ParameterKey>J_p_hi__CL_SP_RAP</ParameterKey>
@@ -302,7 +302,7 @@
         <AxisLabel>J(p,lo)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -310,8 +310,8 @@
         <ParticleType>Proton</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Helium Flux (E&gt;138 kev)</Name>
       <ParameterKey>J_He_lo__CL_SP_RAP</ParameterKey>
@@ -323,7 +323,7 @@
         <AxisLabel>J(He,lo)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -331,8 +331,8 @@
         <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Helium Flux (E&gt;172 kev)</Name>
       <ParameterKey>J_He_hi__CL_SP_RAP</ParameterKey>
@@ -344,7 +344,7 @@
         <AxisLabel>J(He,hi)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -352,8 +352,8 @@
         <ParticleType>AlphaParticle</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Ion Flux (m&gt;4, E&gt;84 kev)</Name>
       <ParameterKey>J_hvy_lo__CL_SP_RAP</ParameterKey>
@@ -365,7 +365,7 @@
         <AxisLabel>J(m&gt;4,lo)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -373,8 +373,8 @@
         <ParticleType>Ion</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Ion Flux (m&gt;4, E&gt;414 kev)</Name>
       <ParameterKey>J_hvy_hi__CL_SP_RAP</ParameterKey>
@@ -386,7 +386,7 @@
         <AxisLabel>J(m&gt;4,hi)</AxisLabel>
         <ScaleMin>100</ScaleMin>
         <ScaleMax>10000000</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>0</ValidMin>
       <ValidMax>2.0000e+9</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
@@ -394,8 +394,8 @@
         <ParticleType>Ion</ParticleType>
         <Qualifier>Scalar</Qualifier>
         <ParticleQuantity>EnergyFlux</ParticleQuantity>
-      </Particle>
-    </Parameter>
+</Particle>
+</Parameter>
     <Parameter>
       <Name>Field-Aligned Electron Anisotropy</Name>
       <ParameterKey>A_e_par__CL_SP_RAP</ParameterKey>
@@ -405,14 +405,14 @@
         <AxisLabel>A(e)</AxisLabel>
         <ScaleMin>-1</ScaleMin>
         <ScaleMax>1</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-1</ValidMin>
       <ValidMax>1</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
+</Support>
+</Parameter>
     <Parameter>
       <Name>Field-Aligned Proton Anisotropy</Name>
       <ParameterKey>A_p_par__CL_SP_RAP</ParameterKey>
@@ -422,13 +422,13 @@
         <AxisLabel>A(e)</AxisLabel>
         <ScaleMin>-1</ScaleMin>
         <ScaleMax>1</ScaleMax>
-      </RenderingHints>
+</RenderingHints>
       <ValidMin>-1</ValidMin>
       <ValidMax>1</ValidMax>
       <FillValue>-1.0000e+31</FillValue>
       <Support>
         <SupportQuantity>Other</SupportQuantity>
-      </Support>
-    </Parameter>
-  </NumericalData>
+</Support>
+</Parameter>
+</NumericalData>
 </Spase>
