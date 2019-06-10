@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Cluster/EFW/PT5.15S</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster Electric Field and Waves (EFW) Spinfit Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
+      <ReleaseDate>2019-06-10T19:39:23Z</ReleaseDate>
       <Description>Cluster EFW 5.15-sec spinfit digital electric field data</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Mats.Andre</PersonID>
@@ -20,7 +20,7 @@
       <AccessRights>Restricted</AccessRights>
       <AccessURL>
         <Name>Swedish Institute of Space Physics, Uppsala</Name>
-        <URL>http://cluster.irfu.se/efw/data/</URL>
+        <URL>https://www.cluster.irfu.se/efw/data/</URL>
       </AccessURL>
       <Format>PDF</Format>
     </AccessInformation>
