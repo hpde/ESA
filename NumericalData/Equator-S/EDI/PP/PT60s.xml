@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Equator-S/EDI/PP/PT60s</ResourceID>
     <ResourceHeader>
       <ResourceName>Equator-S Electron Drift Instrument (EDI) 1-min Prime Parameters</ResourceName>
-      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
+      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
       <Description>This data set contains Key Parameters of the Electron Drift Instrument (EDI).  The following one-minute summary parameters are given versus time: drift velocity and electric field in GSE coordinates.</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Goetz.Paschmann</PersonID>
@@ -19,7 +19,7 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>FTP access to files at SPDF</Name>
-        <URL>ftp://spdf.gsfc.nasa.gov/pub/data/equator-s/pp/edi/1998/</URL>
+        <URL>ftps://spdf.gsfc.nasa.gov/pub/data/equator-s/pp/edi/1998/</URL>
         <Description>EQ_PP_EDI</Description>
       </AccessURL>
       <AccessURL>

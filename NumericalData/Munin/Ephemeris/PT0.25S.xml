@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Munin/Ephemeris/PT0.25S</ResourceID>
     <ResourceHeader>
       <ResourceName>Munin Ephemeris, Spacecraft Orbit and Attitude Data</ResourceName>
-      <ReleaseDate>2018-08-07T14:26:54Z</ReleaseDate>
+      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
       <Description>
          </Description>
       <Acknowledgement>O. Norberg</Acknowledgement>
@@ -34,7 +34,7 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>FTP access to files at SPDF</Name>
-        <URL>ftp://spdf.gsfc.nasa.gov/pub/data/munin/cdfs/m1/oa/</URL>
+        <URL>ftps://spdf.gsfc.nasa.gov/pub/data/munin/cdfs/m1/oa/</URL>
         <Description>Access to Data in CDF Format via ftp from SPDF</Description>
       </AccessURL>
       <AccessURL>
