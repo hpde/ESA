@@ -1,12 +1,20 @@
 <?xml version="1.0"?>
 <Spase xmlns="http://www.spase-group.org/data/schema">
-  <Version>2.3.0</Version>
+  <Version>2.3.1</Version>
   <NumericalData>
     <ResourceID>spase://ESA/NumericalData/Cluster/PEACE/DATA</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster Plasma Electrons and Currents Experiment (PEACE) Digital Data</ResourceName>
-      <ReleaseDate>2018-06-28T22:02:01Z</ReleaseDate>
-      <Description>Cluster PEACE digital data; password needed</Description>
+      <ReleaseDate>2020-05-11T15:24:43Z</ReleaseDate>
+      <Description>Data products of the Cluster Plasma Electron 
+and Current Experiment (PEACE) instruments which have been produced or the Cluster Active Archive. The Plasma Electron And Current Experiment (PEACE) measurements 
+of the thermal electron plasma population enable characterisation of the 
+local plasma – its density, bulk flow, electron temperature – and electron 
+pitch angle data reveal whether the local region is magnetically connected 
+to regions of electron acceleration or lies between magnetic mirrors. 
+PEACE electron data reveals whether electron pitch angle or energy scat-
+tering processes are active, for example as wave-particle interactions oc-
+cur</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Andrew.N.Fazakerley</PersonID>
         <Role>PrincipalInvestigator</Role>
@@ -19,12 +27,12 @@
       <PriorID>spase://VSPO/NumericalData/Cluster/PEACE/DATA</PriorID>
     </ResourceHeader>
     <AccessInformation>
-      <RepositoryID>spase://SMWG/Repository/SWRI</RepositoryID>
+      <RepositoryID>spase://SMWG/Repository/CSA</RepositoryID>
       <Availability>Online</Availability>
-      <AccessRights>Restricted</AccessRights>
+      <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>PEACE site at SWRI</Name>
-        <URL>http://cluster2.space.swri.edu/</URL>
+        <Name>PEACE data at the Cluster Science Data System (CSDS) </Name>
+        <URL>https://sci.esa.int/web/cluster/-/52770-csds</URL>
       </AccessURL>
       <Format>Binary</Format>
     </AccessInformation>
