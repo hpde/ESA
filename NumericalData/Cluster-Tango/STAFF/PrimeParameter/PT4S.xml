@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Tango Prime Parameter Spatio-Temporal Analysis of Magnetic Field Fluctuations (STAFF) Data</ResourceName>
       <AlternateName>Cluster 4 Prime Parameter STAFF Data</AlternateName>
-      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
+      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
       <Description>The Spatio-Temporal Analysis of Magnetic Field Fluctuations (STAFF) experiment provides magnetic field power spectral density values parallel and perpendicular to the magnetic field and the electric field power spectral density values for several frequency ranges. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article The STAFF (Spatio-Temporal Analysis of Field Fluctuations) Experiment for the Cluster Mission, by N. Cornilleau-Wehrlin et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Nicole Cornilleau-Wehrlin</Acknowledgement>
       <Contact>
@@ -71,12 +71,12 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>FTP access to files at SPDF</Name>
+        <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/cluster/c4/pp/sta/</URL>
         <Description>Cluster II Tango Prime Parameter Spatio-Temporal Analysis of Magnetic Field Fluctuations (STAFF) data</Description>
 </AccessURL>
       <AccessURL>
-        <Name>HTTP access to files at SPDF</Name>
+        <Name>HTTPS from SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c4/pp/sta/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
 </AccessURL>

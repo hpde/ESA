@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Tango Digital Wave Processor (DWP) prime parameter data at about 4 sec resolution (spin averaged) in GSE Coordinates</ResourceName>
       <AlternateName>Cluster Tango DWP data</AlternateName>
-      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
+      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
       <Description>Cluster Tango Digital Wave Processor (DWP) data set contains various instrument status and data status flags as well as particle correlator information.</Description>
       <Acknowledgement>NASA; ESA; Dr. Hugo Alleyne</Acknowledgement>
       <Contact>
@@ -86,12 +86,12 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>FTP access to files at SPDF</Name>
+        <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/cluster/c4/pp/dwp/</URL>
         <Description>ftp access to Cluster Tango Digital Wave Processor (DWP) CDF files.</Description>
 </AccessURL>
       <AccessURL>
-        <Name>HTTP access to files at SPDF</Name>
+        <Name>HTTPS from SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c4/pp/dwp/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
 </AccessURL>

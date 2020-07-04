@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Granat/KS-18-M/Mag/PT1200S</ResourceID>
     <ResourceHeader>
       <ResourceName>Russian MSU Granat Magnetospheric Particles</ResourceName>
-      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
+      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
       <Description>This set of magnetospheric data contains measurements of particles by the KS-19-M instrument onboard the high-altitude satellite GRANAT during its passages through Earth's radiation belts.  It also contains geographic and geomagnetic coordinates of the spacecraft.  The data are in ASCII and the overview plots for several passages through the radiation belts are in gif. The altitude of the spacecraft is also plotted for 1989-95 as an illustration of evolution of the GRANAT's perigee.</Description>
       <Contact>
         <PersonID>spase://SMWG/Person/Natalia.E.Papitashvili</PersonID>
@@ -18,12 +18,12 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>FTP access to files at SPDF</Name>
+        <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/russian_msu/granat/magnetospheric_data/</URL>
         <Description>In ASCII via nssdcftp</Description>
       </AccessURL>
       <AccessURL>
-        <Name>HTTP access to files at SPDF</Name>
+        <Name>HTTPS from SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/russian_msu/granat/magnetospheric_data/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
       </AccessURL>

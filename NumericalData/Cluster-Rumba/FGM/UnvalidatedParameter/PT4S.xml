@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Rumba Unvalidated Prime Parameter Fluxgate Magnetometer (FGM) Data</ResourceName>
       <AlternateName>Cluster 1 Unvalidated Prime Parameter FGM data</AlternateName>
-      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
+      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
       <Description>This dataset contains spin resolution unvalidated prime parameter measurements of the magnetic field vector from the fluxgate magnetometer (FGM) instrument on the Cluster 2 Rumba spacecraft. Unvalidated FGM data might sometimes contain artefacts such as spikes (duration ~ 1 spin), or short rotations (few spins). Very occasionally the data contain many spikes over several hours. Please contact Elizabeth Lucek (e.lucek@imperial.ac.uk) for more information regarding possible artefacts in specific intervals of data. The unvalidated prime parameter Data Set does not contain the spacecraft position data or additional range and telemetry mode information that the CAA parameter data set does contain.</Description>
       <Acknowledgement>NASA, Andre Balogh, Elizabeth E. Lucek</Acknowledgement>
       <Contact>
@@ -39,12 +39,12 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>FTP access to files at SPDF</Name>
+        <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/cluster/c1/up/fgm/</URL>
         <Description>Cluster II Rumba Unvalidated Prime Parameter Fluxgate Magnetometer (FGM) data</Description>
 </AccessURL>
       <AccessURL>
-        <Name>HTTP access to files at SPDF</Name>
+        <Name>HTTPS from SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c1/up/fgm/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
 </AccessURL>

@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Samba Prime Parameter Research with Adaptive Particle Imaging Detectors (RAPID) Data</ResourceName>
       <AlternateName>Cluster 3 Prime Parameter RAPID Data</AlternateName>
-      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
+      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
       <Description>The dual-sensor spectrometer RAPID (Research with Adaptive Particle Imaging Detectors) analyzes suprathermal plasma distributions in the energy range from 20-400 KeV for electrons and from 2 KeV/nucleon to 1.50 MeV/nucleon for ions. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article RAPID: The Imaging Energetic Particle Spectrometer on Cluster, by B. Wilken et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Dr. Berend Wilken, European Space Agency</Acknowledgement>
       <Contact>
@@ -111,12 +111,12 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>FTP access to files at SPDF</Name>
+        <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/cluster/c3/pp/rap/</URL>
         <Description>Cluster II Samba Prime Parameter Research with Adaptive Particle Imaging Detectors (RAPID) data</Description>
 </AccessURL>
       <AccessURL>
-        <Name>HTTP access to files at SPDF</Name>
+        <Name>HTTPS from SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c3/pp/rap/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
 </AccessURL>

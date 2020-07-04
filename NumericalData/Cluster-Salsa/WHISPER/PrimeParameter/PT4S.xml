@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Salsa Prime Parameter Waves of HF and Sounder for Probing Electron Density by Relaxation (WHISPER) Data</ResourceName>
       <AlternateName>Cluster 2 Prime Parameter WHISPER Data</AlternateName>
-      <ReleaseDate>2019-08-05T15:03:35Z</ReleaseDate>
+      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
       <Description>The Waves of HF and Sounder for Probing Electron Density by Relaxation (WHISPER) experiment provides measurements of the electron density via active sounding of plasma resonances and records via passive wave analysis the natural wave emissions in the high-frequency range, from 4-80 KHz. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article WHISPER, a Sounder and High-Frequency Wave Analyser Experiment, by P. M. E. Decreau et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Pierrette Decreau</Acknowledgement>
       <Contact>
@@ -71,12 +71,12 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>FTP access to files at SPDF</Name>
+        <Name>FTPS from SPDF (not with most browsers)</Name>
         <URL>ftps://spdf.gsfc.nasa.gov/pub/data/cluster/c2/pp/whi/</URL>
         <Description>Cluster II Salsa Prime Parameter Waves of HF and Sounder for Probing Electron Density by Relaxation (WHISPER) data</Description>
 </AccessURL>
       <AccessURL>
-        <Name>HTTP access to files at SPDF</Name>
+        <Name>HTTPS from SPDF</Name>
         <URL>https://spdf.gsfc.nasa.gov/pub/data/cluster/c2/pp/whi/</URL>
         <Description>In CDF via HTTP from SPDF</Description>
 </AccessURL>
