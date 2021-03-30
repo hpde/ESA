@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Salsa Spin Resolution Fluxgate Magnetometer (FGM) Data</ResourceName>
       <AlternateName>Cluster 1 Spin Resolution FGM Data</AlternateName>
-      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
+      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>This dataset contains spin resolution measurements of the magnetic field vector from the fluxgate magnetometer (FGM) instrument
         on the Cluster Salsa spacecraft.</Description>
       <Acknowledgement>NASA, Andre Balogh, Elizabeth E. Lucek</Acknowledgement>
@@ -42,7 +42,7 @@
 </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C2_CP_FGM_SPIN&amp;index=sp_phys</URL>
+        <URL>https://cdaweb.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C2_CP_FGM_SPIN&amp;index=sp_phys</URL>
         <ProductKey>C2_CP_FGM_SPIN</ProductKey>
 </AccessURL>
       <Format>CDF</Format>

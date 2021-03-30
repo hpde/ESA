@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Equator-S/MAM/PP/PT60S</ResourceID>
     <ResourceHeader>
       <ResourceName>Equator-S Magnetic Field Instrument (MAM) 1-min Prime Parameters</ResourceName>
-      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
+      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>This data set contains selected Key Parameters of the Fluxgate Magnetometer instrument (MAM) onboard the Equator-S mission.
 The following one-minute summary parameters are given versus time: the magnetic field vector in GSE cartesian coordinates; the half-interval between time tags, averaged over the file; and a status flag. </Description>
       <Contact>
@@ -36,7 +36,7 @@ The following one-minute summary parameters are given versus time: the magnetic 
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=EQ_PP_MAM&amp;index=sp_phys</URL>
+        <URL>https://cdaweb.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=EQ_PP_MAM&amp;index=sp_phys</URL>
         <ProductKey>EQ_PP_MAM</ProductKey>
         <Description>Access to ASCII, CDF, and plots via NASA GSFC CDAWeb.</Description>
       </AccessURL>

@@ -5,7 +5,7 @@
     <ResourceID>spase://ESA/NumericalData/Munin/MEDUSA/Ion/PT0.25S</ResourceID>
     <ResourceHeader>
       <ResourceName>Munin Miniaturized Electrostatic DUal-tophat Spherical Analyser (MEDUSA) Ion Counts, Fluxes, and Particle Distributions</ResourceName>
-      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
+      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>MUNIN Nanosatellite MEDUSA Ion Counts, Fluxes, and Particle Distributions, 1 eV to 12 keV. The MUNIN_M1_MDSE Data Product CDF Files have been written by using Instrument Data File Set, IDFS, Parent Files as input for the CDF Production Effort. IDFS are Sets of Files written in a prescribed Format that contain Data, Timing Data, and Metadata.</Description>
       <Acknowledgement>J.D. Winningham</Acknowledgement>
       <Contact>
@@ -48,7 +48,7 @@
       </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=MUNIN_M1_MDSI&amp;index=sp_phys</URL>
+        <URL>https://cdaweb.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=MUNIN_M1_MDSI&amp;index=sp_phys</URL>
         <ProductKey>MUNIN_M1_MDSI</ProductKey>
         <Description>Access to ASCII, CDF, and plots via NASA/GSFC CDAWeb</Description>
       </AccessURL>

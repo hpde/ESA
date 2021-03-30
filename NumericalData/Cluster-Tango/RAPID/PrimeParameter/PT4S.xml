@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Tango Prime Parameter Research with Adaptive Particle Imaging Detectors (RAPID) Data</ResourceName>
       <AlternateName>Cluster 4 Prime Parameter RAPID Data</AlternateName>
-      <ReleaseDate>2020-07-03T23:28:58Z</ReleaseDate>
+      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>The dual-sensor spectrometer RAPID (Research with Adaptive Particle Imaging Detectors) analyzes suprathermal plasma distributions in the energy range from 20-400 KeV for electrons and from 2 KeV/nucleon to 1.50 MeV/nucleon for ions. For more details of the Cluster mission, the spacecraft, and its instruments, see the report Cluster: mission, payload and supporting activities, March 1993, ESA SP-1159, and the included article RAPID: The Imaging Energetic Particle Spectrometer on Cluster, by B. Wilken et al., from which this information was obtained.</Description>
       <Acknowledgement>NASA, Dr. Berend Wilken, European Space Agency</Acknowledgement>
       <Contact>
@@ -122,7 +122,7 @@
 </AccessURL>
       <AccessURL>
         <Name>CDAWeb</Name>
-        <URL>https://cdaweb.sci.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C4_PP_RAP&amp;index=sp_phys</URL>
+        <URL>https://cdaweb.gsfc.nasa.gov/cgi-bin/eval2.cgi?dataset=C4_PP_RAP&amp;index=sp_phys</URL>
         <ProductKey>C4_PP_RAP</ProductKey>
 </AccessURL>
       <Format>CDF</Format>
