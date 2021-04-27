@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema   http://www.spase-group.org/data/schema/spase-2_3_0.xsd">
   <Version>2.3.0</Version>
   <NumericalData>
     <ResourceID>spase://ESA/NumericalData/Equator-S/Ephemeris/PrimeParameter/PT4S</ResourceID>
     <ResourceHeader>
       <ResourceName>Equator-S Epheneris and Auxiliary Prime Parameter 4 s Data</ResourceName>
-      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
+      <ReleaseDate>2021-04-27T17:52:14Z</ReleaseDate>
       <Description>Equator-S Auxiliary Data Prime Parameters. EQUATOR-S was a Low-Cost Mission designed to study the Earth's Equatorial Magnetosphere out to Distances of about 10 Re and it formed Element of the Closely-Coordinated Fleet of Satellites that comprise the IASTP Program. Equator-S was based on a Simple Spacecraft Design and carries a Science Payload consisting of advanced Instruments that were developed for other IASTP Missions. Unique Features of EQUATOR-S were its nearly Equatorial Orbit and its High Spin Rate. It was launched as an Auxiliary Payload on an Ariane-4 Rocket on December 2, 1997. The Mission was intended for a Two-Year Lifetime. See the Equator-S Data Center Manual, EQS-MPE-EDC-01, Section 4.8 AUX</Description>
       <Acknowledgement>G. Paschmann, Refer to ESDS for Rules of Acknowledgement Refer to EQS-MPE-EDC-01.</Acknowledgement>
       <Contact>
@@ -44,6 +44,20 @@
       </AccessURL>
       <Format>CDF</Format>
       <Encoding>None</Encoding>
+      <Acknowledgement>G. Paschmann, Refer to ESDS for Rules of Acknowledgement Refer to EQS-MPE-EDC-01. Please acknowledge the data providers and CDAWeb when using these data.</Acknowledgement>
+    </AccessInformation>
+    <AccessInformation>
+      <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <AccessURL>
+        <Name>CDAWeb HAPI Server</Name>
+        <URL>https://cdaweb.gsfc.nasa.gov/hapi</URL>
+        <Style>HAPI</Style>
+        <ProductKey>EQ_PP_AUX</ProductKey>
+        <Description>Web Service to this product using the HAPI interface.</Description>
+      </AccessURL>
+      <Format>CSV</Format>
       <Acknowledgement>G. Paschmann, Refer to ESDS for Rules of Acknowledgement Refer to EQS-MPE-EDC-01. Please acknowledge the data providers and CDAWeb when using these data.</Acknowledgement>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
@@ -221,7 +235,7 @@
       <Description>Spacecraft Latitude, Geocentric Solar Ecliptic, GSE, Spherical Coordinates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT4S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -249,7 +263,7 @@
       <Description>Spacecraft Longitude, Geocentric Solar Ecliptic, GSE, Spherical Coordinates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT4S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -298,7 +312,7 @@
       <Description>Rotation Angle, GSE to GSM, Scalar</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT4S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -326,7 +340,7 @@
       <Description>Dipole Tilt in the GSM X-Z Plane, Scalar</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT4S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>

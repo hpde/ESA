@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Spase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.spase-group.org/data/schema" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_0.xsd">
   <Version>2.3.0</Version>
   <NumericalData>
     <ResourceID>spase://ESA/NumericalData/Cluster/Ephemeris/JP/PredictedScientificEvent/PT5M</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster Predicted Scientific Events (PSE), JSOC Parameter (JP), 5 min Data</ResourceName>
-      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
+      <ReleaseDate>2021-04-27T17:52:14Z</ReleaseDate>
       <Description>M.A. Hapgood et al, The Joint Science Operations Centre, Space Sci. Rev. 79, 487-525 (1997)
                    NS S Southbound neutral sheet
                    NT I Enter north tail lobe from inner magnetosphere
@@ -60,6 +60,20 @@
       </AccessURL>
       <Format>CDF</Format>
       <Encoding>None</Encoding>
+      <Acknowledgement>M.A. Hapgood. Refer to Cluster Science Data System, CSDS, for Rules of Acknowledgement Refer to Cluster Science Data System, CSDS, for Rules of Use. Please acknowledge the Data Providers and CDAWeb when using these Data.</Acknowledgement>
+    </AccessInformation>
+    <AccessInformation>
+      <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <AccessURL>
+        <Name>CDAWeb HAPI Server</Name>
+        <URL>https://cdaweb.gsfc.nasa.gov/hapi</URL>
+        <Style>HAPI</Style>
+        <ProductKey>CT_JP_PSE</ProductKey>
+        <Description>Web Service to this product using the HAPI interface.</Description>
+      </AccessURL>
+      <Format>CSV</Format>
       <Acknowledgement>M.A. Hapgood. Refer to Cluster Science Data System, CSDS, for Rules of Acknowledgement Refer to Cluster Science Data System, CSDS, for Rules of Use. Please acknowledge the Data Providers and CDAWeb when using these Data.</Acknowledgement>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
@@ -199,7 +213,7 @@
       <Description>Spacecraft Position, Predicted Latitude, Elevation Angle from Ecliptic Plane, Non-Event Times not plotted</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT5M</Cadence>
-      <Units>&#176;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>

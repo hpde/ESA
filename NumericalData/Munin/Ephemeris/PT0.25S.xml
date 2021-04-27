@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema   http://www.spase-group.org/data/schema/spase-2_3_0.xsd">
   <Version>2.3.0</Version>
   <NumericalData>
     <ResourceID>spase://ESA/NumericalData/Munin/Ephemeris/PT0.25S</ResourceID>
     <ResourceHeader>
       <ResourceName>Munin Ephemeris, Spacecraft Orbit and Attitude Data</ResourceName>
-      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
+      <ReleaseDate>2021-04-27T17:52:14Z</ReleaseDate>
       <Description>
          </Description>
       <Acknowledgement>O. Norberg</Acknowledgement>
@@ -50,6 +50,20 @@
       </AccessURL>
       <Format>CDF</Format>
       <Encoding>None</Encoding>
+      <Acknowledgement>O. Norberg. Please acknowledge the data providers and CDAWeb when using these data.</Acknowledgement>
+    </AccessInformation>
+    <AccessInformation>
+      <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <AccessURL>
+        <Name>CDAWeb HAPI Server</Name>
+        <URL>https://cdaweb.gsfc.nasa.gov/hapi</URL>
+        <Style>HAPI</Style>
+        <ProductKey>MUNIN_M1_OA</ProductKey>
+        <Description>Web Service to this product using the HAPI interface.</Description>
+      </AccessURL>
+      <Format>CSV</Format>
       <Acknowledgement>O. Norberg. Please acknowledge the data providers and CDAWeb when using these data.</Acknowledgement>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
@@ -153,7 +167,7 @@
       <Description>Spacecraft Position, Latitude, Corrected Geomagnetic, CGM, Coordinates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -182,7 +196,7 @@
       <Description>Spacecraft Position, Longitude, Corrected Geomagnetic, CGM, Coordinates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -211,7 +225,7 @@
       <Description>Spacecraft Position, Latitude, Geographic, GEO, Coordinates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -240,7 +254,7 @@
       <Description>Spacecraft Position, Longitude, Geographic, GEO, Coordinates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -691,7 +705,7 @@
       <Description>Right Ascension, J2000 Coordinates, measured Eastward along the Celestial Equator from the Ascending Node of the Ecliptic, Celestial Coordiates</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -720,7 +734,7 @@
       <Description>Declination, J2000 Coordinates, the Angle is measured North or South from the Celestial Equator</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>
@@ -749,7 +763,7 @@
       <Description>Sun Angle</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <RenderingHints>
         <DisplayType>TimeSeries</DisplayType>
@@ -774,7 +788,7 @@
       <Description>B-Field Angle</Description>
       <Caveats>Average Type: angle_degrees</Caveats>
       <Cadence>PT0.25S</Cadence>
-      <Units>&#xB0;</Units>
+      <Units>°</Units>
       <UnitsConversion>0.0174532925&gt;rad</UnitsConversion>
       <CoordinateSystem>
         <CoordinateRepresentation>Spherical</CoordinateRepresentation>

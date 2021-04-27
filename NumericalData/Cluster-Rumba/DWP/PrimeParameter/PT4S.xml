@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_0.xsd">
   <Version>2.3.0</Version>
   <NumericalData>
@@ -6,7 +6,7 @@
     <ResourceHeader>
       <ResourceName>Cluster-Rumba Digital Wave Processor (DWP) prime parameter data at about 4 sec resolution (spin averaged) in GSE Coordinates</ResourceName>
       <AlternateName>Cluster Rumba DWP data</AlternateName>
-      <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
+      <ReleaseDate>2021-04-27T17:52:14Z</ReleaseDate>
       <Description>Cluster Rumba Digital Wave Processor (DWP) data set contains various instrument status and data status flags as well as particle correlator information.</Description>
       <Acknowledgement>NASA; ESA; Dr. Hugo Alleyne</Acknowledgement>
       <Contact>
@@ -109,6 +109,20 @@
         <Description>Plots, lists and files from CDAWeb.</Description>
       </AccessURL>
       <Format>Text</Format>
+      <Acknowledgement>NASA; ESA; Dr. Hugo Alleyne and GSFC CDAWeb teams</Acknowledgement>
+    </AccessInformation>
+    <AccessInformation>
+      <RepositoryID>spase://SMWG/Repository/NASA/GSFC/SPDF</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <AccessURL>
+        <Name>CDAWeb HAPI Server</Name>
+        <URL>https://cdaweb.gsfc.nasa.gov/hapi</URL>
+        <Style>HAPI</Style>
+        <ProductKey>C1_PP_DWP</ProductKey>
+        <Description>Web Service to this product using the HAPI interface.</Description>
+      </AccessURL>
+      <Format>CSV</Format>
       <Acknowledgement>NASA; ESA; Dr. Hugo Alleyne and GSFC CDAWeb teams</Acknowledgement>
     </AccessInformation>
     <ProcessingLevel>Calibrated</ProcessingLevel>
