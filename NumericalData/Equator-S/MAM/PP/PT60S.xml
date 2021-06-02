@@ -54,7 +54,6 @@ The following one-minute summary parameters are given versus time: the magnetic 
         <Description>Web Service to this product using the HAPI interface.</Description>
       </AccessURL>
       <Format>CSV</Format>
-      <Acknowledgement/>
     </AccessInformation>
     <InstrumentID>spase://SMWG/Instrument/Equator-S/MAM</InstrumentID>
     <MeasurementType>MagneticField</MeasurementType>
