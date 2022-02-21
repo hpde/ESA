@@ -18,10 +18,6 @@
             <Role>GeneralContact</Role>
          </Contact>
          <Contact>
-            <PersonID>spase://SMWG/Person/melanie.heil@esa.int</PersonID>
-            <Role>MetadataContact</Role>
-         </Contact>
-         <Contact>
             <PersonID>spase://SMWG/Person/Lee.Frost.Bargatze</PersonID>
             <Role>MetadataContact</Role>
          </Contact>
