@@ -88,7 +88,7 @@ The SPM instrument is composed of a triple sunphotometer with three interference
             <WaveQuantity>Intensity</WaveQuantity>
             <WavelengthRange>
                <Low>860.0</Low>
-               <High>8650</High>
+               <High>865.0</High>
                <Units>nm</Units>
             </WavelengthRange>
          </Wave>
