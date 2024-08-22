@@ -25,7 +25,7 @@ of Universitat Kiel</Acknowledgement>
       </Contact>
       <Contact>
          <PersonID>spase://SMWG/Person/Andriy.Koval</PersonID>
-         <Role>MetadataContact</Role>
+         <Role>MetadataContact</Role> 
       </Contact>
       <InformationURL>
         <Name>CDAWeb Skeleton Table</Name>
