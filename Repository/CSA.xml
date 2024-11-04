@@ -5,10 +5,10 @@
     <ResourceID>spase://ESA/Repository/CSA</ResourceID>
     <ResourceHeader>
       <ResourceName>Cluster Science Archive</ResourceName>
-      <ReleaseDate>2024-11-02T12:34:56.789Z</ReleaseDate>
+      <ReleaseDate>2024-11-04T12:34:56.789Z</ReleaseDate>
 	  <RevisionHistory>
 		 <RevisionEvent>
-            <ReleaseDate>2024-11-02T12:34:56.789</ReleaseDate>
+            <ReleaseDate>2024-11-04T12:34:56.789</ReleaseDate>
             <Note>Updated version. Moved to ESA Repository. JMW</Note>
          </RevisionEvent>
       </RevisionHistory>
