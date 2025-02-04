@@ -2,13 +2,13 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_7_0.xsd">
    <Version>2.7.0</Version>
    <NumericalData>
-      <ResourceID>spase://ESA/NumericalData/SolarOrbiter/PHI/FDT/ICNT/PT60M</ResourceID>
+      <ResourceID>spase://ESA/NumericalData/SolarOrbiter/PHI/FDT/BLOS/PT60M</ResourceID>
       <NamingAuthority>ESA</NamingAuthority>
       <ResourceType>NumericalData</ResourceType>
       <ResourceHeader>
-         <ResourceName>Solar Orbiter PHI Continuum Intensity</ResourceName>
+         <ResourceName>Solar Orbiter PHI Line-Of-Sight Magnetic Field</ResourceName>
          <ReleaseDate>2025-01-21T00:08:46</ReleaseDate>
-         <Description>Continuum intensity computed by the RTE inversion</Description>
+         <Description>Line-Of-Sight Magnetic Field</Description>
          <Acknowledgement>Solar Orbiter is a space mission of international collaboration between ESA and NASA, operated by ESA. We are grateful to the ESA SOC and MOC teams for their support. The German contribution to SO/PHI is funded by the BMWi through DLR and by MPG central funds. The Spanish contribution is funded by AEI/MCIN/10.13039/501100011033/ and European Union “NextGenerationEU”/PRTR” (RTI2018-096886-C5,  PID2021-125325OB-C5,  PCI2022-135009-2, PCI2022-135029-2) and ERDF “A way of making Europe”; “Center of Excellence Severo Ochoa” awards to IAA-CSIC (SEV-2017-0709, CEX2021-001131-S); and a Ramón y Cajal fellowship awarded to DOS. The French contribution is funded by CNES.</Acknowledgement>
          <Contact>
             <PersonID>spase://SMWG/Person/Joachim.Woch</PersonID>
@@ -50,15 +50,15 @@
       </AccessInformation>
       <ProcessingLevel>Calibrated</ProcessingLevel>
       <InstrumentID>spase://ESA/Instrument/SolarOrbiter/PHI</InstrumentID>
-      <MeasurementType>ImageIntensity</MeasurementType>
+      <MeasurementType>Magnetogram</MeasurementType>
       <ObservedRegion>Sun.Photosphere</ObservedRegion>
       <Parameter>
          <Name>FITS Data Array</Name>
-         <Description>Continuum Intensity</Description>
-         <Wave>
-            <WaveType>Photon</WaveType>
-            <WaveQuantity>Intensity</WaveQuantity>
-         </Wave>
+         <Description>Line-of-Sight Magnetic Field Strength</Description>
+         <Units>Gauss</Units>
+         <Field>
+            <FieldQuantity>Magnetic</FieldQuantity>
+         </Field>
          <SpatialCoverage>
             <CoordinateSystem>
                <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
