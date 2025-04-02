@@ -2,7 +2,7 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_7_0.xsd">
    <Version>2.7.0</Version>
    <NumericalData>
-      <ResourceID>spase://ESA/NumericalData/SOHO/EIT/EUV284/Level0/PT12M</ResourceID>
+      <ResourceID>spase://ESA/NumericalData/SOHO/EIT/EUV304/Level0/PT6H</ResourceID>
       <NamingAuthority>ESA</NamingAuthority>
       <ResourceType>NumericalData</ResourceType>
       <ResourceHeader>
@@ -109,7 +109,7 @@ This information is from the EIT instrument paper by Delaboudiniere et al. (1995
       <ObservedRegion>Sun.Corona</ObservedRegion>
       <Parameter>
          <Name>EUV Intensity</Name>
-         <Cadence>PT12M</Cadence>
+         <Cadence>PT6H</Cadence>
          <Units>Data Number</Units>
          <CoordinateSystem>
             <CoordinateRepresentation>Cartesian</CoordinateRepresentation>
@@ -119,8 +119,8 @@ This information is from the EIT instrument paper by Delaboudiniere et al. (1995
             <WaveType>Photon</WaveType>
             <WaveQuantity>Intensity</WaveQuantity>
             <WavelengthRange>
-               <Low>284</Low>
-               <High>284</High>
+               <Low>304</Low>
+               <High>304</High>
                <Units>Angstrom</Units>
             </WavelengthRange>
          </Wave>
