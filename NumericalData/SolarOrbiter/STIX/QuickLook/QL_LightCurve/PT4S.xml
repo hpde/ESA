@@ -27,6 +27,10 @@
             <PersonID>spase://SMWG/Person/Hualin.Xiao</PersonID>
             <Role>TeamMember</Role>
          </Contact>
+         <Contact>
+            <PersonID>spase://SMWG/Person/Nicky.Hochmuth</PersonID>
+            <Role>TeamMember</Role>
+         </Contact>
          <InformationURL>
             <Name>The STIX Website</Name>
             <URL>https://datacenter.stix.i4ds.net/</URL>
