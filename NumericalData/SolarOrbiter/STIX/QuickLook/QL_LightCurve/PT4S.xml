@@ -64,17 +64,6 @@
          <Format>FITS</Format>
          <Encoding>None</Encoding>
       </AccessInformation>
-      <AccessInformation>
-         <RepositoryID>spase://ESA/Repository/SolarOrbiter/STIXDataCenter</RepositoryID>
-         <Availability>Online</Availability>
-         <AccessRights>Open</AccessRights>
-         <AccessURL>
-            <Name>STIX Data Center</Name>
-            <URL>https://datacenter.stix.i4ds.net/view/list/fits</URL>
-            <Style>Search</Style>
-         </AccessURL>
-         <Format>FITS</Format>
-      </AccessInformation>
       <InstrumentID>spase://ESA/Instrument/SolarOrbiter/STIX</InstrumentID>
       <MeasurementType>Irradiance</MeasurementType>
    </NumericalData>
