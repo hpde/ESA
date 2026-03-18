@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_7_0.xsd">
-   <Version>2.7.0</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_7_1.xsd">
+   <Version>2.7.1</Version>
    <NumericalData>
-      <ResourceID>spase://ESA/NumericalData/SolarOrbiter/EUI/FSI/174/Level_3/PT10M</ResourceID>
+      <ResourceID>spase://ESA/NumericalData/SolarOrbiter/EUI/FSI/174/Level_1/PT10M</ResourceID>
       <NamingAuthority>ESA</NamingAuthority>
       <ResourceHeader>
          <ResourceName>Extreme UltraViolet Imager</ResourceName>
-         <ReleaseDate>2025-09-18T00:00:00</ReleaseDate>
+         <ReleaseDate>2026-03-16T00:00:00</ReleaseDate>
+	 <RevisionHistory>
+            <RevisionEvent>
+               <ReleaseDate>2026-03-18T00:08:46</ReleaseDate>
+               <Note>Added MetadataRightsList and RightsList(s); Added SDAC into AccessInfomation</Note>
+            </RevisionEvent>
+         </RevisionHistory>
          <Description>The EUI instrument suite is composed of three telescopes: one dual-band full-sun imager (FSI) working alternatively at the 17.4 nm and 30.4 nm EUV passbands (named “FSI174/304”), and two high resolution imagers (HRI), one at the hydrogen Lyman-α line at 121.6 nm, (named “HRILy-α”) and one in the extreme UV line at 17.4 nm (named “HRIEUV”).</Description>
          <PublicationInfo>
             <Authors>Rochus, Pierre.</Authors>
@@ -24,22 +30,27 @@
          </InformationURL>
       </ResourceHeader>
       <AccessInformation>
-         <RepositoryID>spase://SMWG/Repository/SIDC</RepositoryID>
+         <RepositoryID>spase://ESA/Repository/SolarOrbiterArchive</RepositoryID>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
             <URL>https://soar.esac.esa.int/soar/</URL>
             <Style>File</Style>
-            <Description>Level 3 (L3) data corresponds to a further processing of L2 data for visualisation purposes. The L3 image files are intended for visualisation through JHelioviewer. L2 images without the keyword WAVELNTH (e.g., because a wrong filter position was selected) are excluded from processing. The L3 file version number is identical to the L2 file version number.</Description>
-         </AccessURL>
-         <AccessURL>
-            <URL>https://spase-metadata.org/ESA/Repository/SolarOrbiterArchive.html</URL>
-            <Style>File</Style>
-            <Description>Level 3 (L3) data corresponds to a further processing of L2 data for visualisation purposes. The L3 image files are intended for visualisation through JHelioviewer. L2 images without the keyword WAVELNTH (e.g., because a wrong filter position was selected) are excluded from processing. The L3 file version number is identical to the L2 file version number.</Description>
+            <Description>EUI data archive. Level 1 data implies that the metadata in the FITS keywords is complete but that the images remain uncalibrated. Besides decompression, only limited, reversible operations have been applied to the images (mirroring and flipping, and 90-degree rotations) such that solar north is roughly on top and solar east roughly on the left. All the images received on the ground are distributed in the Level 1 dataset. This includes images with the telescope doors still closed, either &quot;darks&quot; or &quot;LEDs&quot; (calibration lamp images). The first of these were received on March 3, 2020.</Description>
          </AccessURL>
          <Format>FITS</Format>
       </AccessInformation>
-      <ProcessingLevel>Calibrated</ProcessingLevel>
+      <AccessInformation>
+         <RepositoryID>spase://SMWG/Repository/SDAC</RepositoryID>
+         <Availability>Online</Availability>
+         <AccessRights>Open</AccessRights>
+         <AccessURL>
+            <URL>https://umbra.nascom.nasa.gov/solar_orbiter/science/EUI/L1/</URL>
+            <Style>File</Style>
+         </AccessURL>
+         <Format>FITS</Format>
+      </AccessInformation>
+      <ProcessingLevel>Uncalibrated</ProcessingLevel>
       <MeasurementType>ImageIntensity</MeasurementType>
       <TemporalDescription>
          <TimeSpan>

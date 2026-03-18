@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_7_0.xsd">
-   <Version>2.7.0</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema  http://www.spase-group.org/data/schema/spase-2_7_1.xsd">
+   <Version>2.7.1</Version>
    <NumericalData>
       <ResourceID>spase://ESA/NumericalData/SolarOrbiter/EUI/FSI/174/Level_2/PT10M</ResourceID>
       <NamingAuthority>ESA</NamingAuthority>
